@@ -1,0 +1,14 @@
+start AutoLuxe = mapping
+start pdm_mlo = mapping
+start polo_doorlock = door
+start progressBars = Essential!
+start truck = Car Society Motor Bike
+start esx_vehicleshop = Cardealer
+start polo_deluxshop = Cardealer
+start polo_cardealermotorbike = Cardealer
+start polo_cardealertruck = Cardealer
+start polo_cardealersports = Cardealer
+start esx_chatarrero = scrap
+start polo_ferrailleurjob = junkyard job
+start MF_VehSales = Sale between players with the command /sellCar
+start Polo_importscar = Concessionaires missions
